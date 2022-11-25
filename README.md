@@ -2,7 +2,8 @@ Hi there 👋
 My name is Aiyan. I am a Computer Science Engineer. I enjoy web development. I probably spend my leisure time doing some physical activities or building/exploring software programs.
 
 Connect with me on
-[LinkedIn](#[real-cool-heading](https://www.linkedin.com/in/aiyan-faras007/))
+[LinkedIn](#https://www.linkedin.com/in/aiyan-faras007/)
+
 [![@aiyanfaras's Holopin board](https://holopin.me/aiyanfaras)](https://holopin.io/@aiyanfaras)
 
 <!---
